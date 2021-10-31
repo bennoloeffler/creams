@@ -8,3 +8,6 @@ pom.xml
 .lein-env
 .idea
 *.iml
+.calva
+.lsp
+.clj-kondo
